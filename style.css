@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+  }
+  
+  .navbar {
+    height: 60px;
+    background-color: #0f1111;
+    color: white;
+  }
+  
+  .navlogo {
+    height: 60px;
+    width: 50px;
+  }
+  
+  .logo {
+    background-image: url(images/amz.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 50px;
+    width: 50px;
+  }
